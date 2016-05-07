@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.0</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Calvin\Documents\Atmel Studio\7.0\CPE 301\DesignAssignments\DA2\DA2-Asembly\DA2-Asembly\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.98\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Calvin\Documents\Atmel Studio\7.0\CPE 301\DesignAssignments\DA2\DA2-Asembly\DA2-Asembly\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.98\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.98\avrasm\inc\M328PDEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Calvin\Documents\Atmel Studio\7.0\CPE 301\DesignAssignments\DA2\DA2-Asembly\DA2-Asembly\Debug\DA2-Asembly.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA2-Asembly.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA2-Asembly.map</FILE>
+  <FILE>DA2-Asembly.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <BEGIN><FILE>C:\Users\Calvin\Documents\Atmel Studio\7.0\CPE 301\DesignAssignments\DA2\DA2-Asembly\DA2-Asembly\main.asm</FILE><LINE>47</LINE></BEGIN>
+  <DELAY><FILE>C:\Users\Calvin\Documents\Atmel Studio\7.0\CPE 301\DesignAssignments\DA2\DA2-Asembly\DA2-Asembly\main.asm</FILE><LINE>81</LINE></DELAY>
+  <TOGPC4><FILE>C:\Users\Calvin\Documents\Atmel Studio\7.0\CPE 301\DesignAssignments\DA2\DA2-Asembly\DA2-Asembly\main.asm</FILE><LINE>66</LINE></TOGPC4>
+  <GOBACK><FILE>C:\Users\Calvin\Documents\Atmel Studio\7.0\CPE 301\DesignAssignments\DA2\DA2-Asembly\DA2-Asembly\main.asm</FILE><LINE>63</LINE></GOBACK>
+  <TOGPC5><FILE>C:\Users\Calvin\Documents\Atmel Studio\7.0\CPE 301\DesignAssignments\DA2\DA2-Asembly\DA2-Asembly\main.asm</FILE><LINE>74</LINE></TOGPC5>
+  <AGAIN><FILE>C:\Users\Calvin\Documents\Atmel Studio\7.0\CPE 301\DesignAssignments\DA2\DA2-Asembly\DA2-Asembly\main.asm</FILE><LINE>91</LINE></AGAIN>
+ </LABELS>
+</ASSEMBLER_INFO>
